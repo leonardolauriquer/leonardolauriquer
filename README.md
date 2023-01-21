@@ -7,7 +7,7 @@
 
 - 📫 Entre em contato através do **leolr.trab@hotmail.com**
 
-- 📄 Para saber sobre minhas experiências, acessar meu LinkedIn [https://www.linkedin.com/in/leonardo-lauriquer-ribeiro-24916a92/](https://www.linkedin.com/in/leonardo-lauriquer-ribeiro-24916a92/)
+- 📄 Para saber sobre minhas experiências, acessar meu LinkedIn abaixo ⇩
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
