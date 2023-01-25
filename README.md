@@ -1,15 +1,18 @@
-<h1 align="center">Oi 👋, Eu sou Leonardo Lauriquer Ribeiro</h1>
-<h3 align="center">Apaixonado por ciência, análise e desenvolvimento de Software</h3>
+<h1 align="center">Oi 👋, Eu sou Leonardo Lauriquer Ribeiro<BR>
+Hi 👋, I'm Leonardo Lauriquer Ribeiro</h1>
+<h3 align="center">PT-BR Apaixonado por ciência, análise e desenvolvimento de Software<br>ENG Passionate about science, software analysis and development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardolauriquer&label=Profile%20views&color=0e75b6&style=flat" alt="leonardolauriquer" /> </p>
 
-- 💬 Me pergunte sobre **JavaScript, HTML, CSS, VBA, DBA, QA, Excel, Android Studio, AdobeXD e PowerBI**
+- 💬 Me pergunte sobre/ Ask me about: **JavaScript, HTML, CSS, VBA, DBA, QA, Excel, Android Studio, AdobeXD e PowerBI**
 
-- 📫 Entre em contato através do **leolr.trab@hotmail.com**
+- 📫 Email: **leolr.trab@hotmail.com**
 
-- 📄 Para saber sobre minhas experiências, acessar meu LinkedIn abaixo ⇩
+- :green_book: [Meu Portfolio/ My Portfolio](https://leonardolauriquer.github.io/portfolio/)
 
-<h3 align="left">Connect with me:</h3>
+- 📄 PT-BR Para saber sobre minhas experiências, acessar meu LinkedIn abaixo ⇩<br> 📄 ENG To learn about my experiences, access my LinkedIn below ⇩
+
+<h3 align="left">Entre em contato através:<br>Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/leonardo-lauriquer-ribeiro-24916a92/" target="_blank"  rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo lauriquer ribeiro" height="30" width="40" /></a>
 <a href="https://www.facebook.com/leonardo.lauriquerribeiro.7" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leonardo.lauriquer" height="30" width="40" /></a>
