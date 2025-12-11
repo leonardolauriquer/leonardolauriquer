@@ -6,9 +6,9 @@ Hi 👋, I'm Leonardo Lauriquer Ribeiro</h1>
 
 - 💬 Me pergunte sobre/ Ask me about: **JavaScript, HTML, CSS, VBA, DBA, QA, Excel, Android Studio, AdobeXD e PowerBI**
 
-- 📫 Email: **leolr.trab@hotmail.com**
+- 📫 Whatsapp: [Clique aqui](https://api.whatsapp.com/send/?phone=5551982890205&text&type=phone_number&app_absent=0)
 
-- :green_book: [Meu Portfolio/ My Portfolio](https://leonardolauriquer.github.io/portfolio/)
+- :green_book: [Meu Portfolio/ My Portfolio](https://leonardolauriquer.vercel.app)
 
 - 📄 PT-BR Para saber sobre minhas experiências, acessar meu LinkedIn abaixo ⇩<br> 📄 ENG To learn about my experiences, access my LinkedIn below ⇩
 
