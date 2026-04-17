@@ -1,26 +1,58 @@
-<h1 align="center">Oi 👋, Eu sou Leonardo Lauriquer Ribeiro<BR>
-Hi 👋, I'm Leonardo Lauriquer Ribeiro</h1>
-<h3 align="center">PT-BR Apaixonado por ciência, análise e desenvolvimento de Software<br>ENG Passionate about science, software analysis and development</h3>
+# Leonardo Lauriquer Ribeiro
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardolauriquer&label=Profile%20views&color=0e75b6&style=flat" alt="leonardolauriquer" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=leonardolauriquer&color=blue)](https://github.com/leonardolauriquer)
 
-- 💬 Me pergunte sobre/ Ask me about: **JavaScript, HTML, CSS, VBA, DBA, QA, Excel, Android Studio, AdobeXD e PowerBI**
+## Sobre / About
 
-- 📫 Whatsapp: [Clique aqui](https://api.whatsapp.com/send/?phone=5551982890205&text&type=phone_number&app_absent=0)
+Olá! Sou Leonardo Lauriquer Ribeiro, dono e engenheiro responsável pelo site [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br). Apaixonado por ciência, análise de dados e desenvolvimento de software, busco criar soluções inovadoras e eficientes.
 
-- :green_book: [Meu Portfolio/ My Portfolio](https://leonardolauriquer.vercel.app)
+Hi! I'm Leonardo Lauriquer Ribeiro, owner and lead engineer of the website [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br). Passionate about science, data analysis, and software development, I strive to create innovative and efficient solutions.
 
-- 📄 PT-BR Para saber sobre minhas experiências, acessar meu LinkedIn abaixo ⇩<br> 📄 ENG To learn about my experiences, access my LinkedIn below ⇩
+## Habilidades / Skills
 
-<h3 align="left">Entre em contato através:<br>Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/leonardo-lauriquer-ribeiro-24916a92/" target="_blank"  rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo lauriquer ribeiro" height="30" width="40" /></a>
-<a href="https://www.facebook.com/leonardo.lauriquerribeiro.7" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leonardo.lauriquer" height="30" width="40" /></a>
-<a href="https://instagram.com/leonardo.lauriquer" target="_blank"  rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardo.lauriquer" height="30" width="40" /></a>
-<a href="https://discord.gg/leolr#6671" target="_blank"  rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leolr#6671" height="30" width="40" /></a>
+- JavaScript
+- HTML
+- CSS
+- VBA
+- DBA
+- QA
+- Excel
+- Android Studio
+- Adobe XD
+- Power BI
+
+## Linguagens e Ferramentas / Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
+  <img src="https://img.shields.io/badge/DBA-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBA" />
+  <img src="https://img.shields.io/badge/QA-FF6B6B?style=for-the-badge&logo=testing-library&logoColor=white" alt="QA" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Estatísticas / Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardolauriquer&show_icons=true&locale=en&layout=compact" alt="leonardolauriquer" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolauriquer&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## Contatos / Contacts
+
+- **WhatsApp:** [Link](https://wa.me/1234567890)  
+- **Portfólio:** [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br)  
+- **LinkedIn:** [Leonardo Lauriquer Ribeiro](https://linkedin.com/in/leonardolauriquer)
+
+## Redes Sociais / Social Media
+
+<p align="center">
+  <a href="https://linkedin.com/in/leonardolauriquer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://facebook.com/leonardolauriquer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/leonardolauriquer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.gg/leonardolauriquer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
