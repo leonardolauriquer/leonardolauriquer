@@ -6,27 +6,59 @@
 
 Olá! Sou Leonardo Lauriquer Ribeiro, dono e engenheiro responsável pelo site [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br). Apaixonado por ciência, análise de dados e desenvolvimento de software, busco criar soluções inovadoras e eficientes.
 
-Hi! I'm Leonardo Lauriquer Ribeiro, owner and lead engineer of the website [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br). Passionate about science, data analysis, and software development, I strive to create innovative and efficient solutions.## Habilidades Gerais / General Skills
+Hi! I'm Leonardo Lauriquer Ribeiro, owner and lead engineer of the website [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br). Passionate about science, data analysis, and software development, I strive to create innovative and efficient solutions.
+
+## Habilidades / Skills
 
 - Desenvolvimento de aplicações web e móveis
+
 - Inteligência Artificial e Machine Learning
+
 - Gerenciamento de conhecimento e contexto
+
 - Processamento em nuvem e bancos de dados
 
 - Web and mobile application development
+
 - Artificial Intelligence and Machine Learning
+
 - Knowledge and context management
+
 - Cloud processing and databases
 
 ## Linguagens e Ferramentas / Languages and Tools
 
-| Linguagens / Languages | Frameworks / IA / Frameworks / AI | Ferramentas / Plataformas / Cloud / DBs / Tools / Platforms / Cloud / DBs |
-|------------------------|----------------------------------|-------------------------------------------------------------------------|
-| Python, JavaScript, TypeScript, Java, SQL | TensorFlow, PyTorch, LangChain, Hugging Face, Streamlit, Jupyter, Ollama, OpenAI API, RAG, LlamaIndex, LangGraph | Firebase (Firestore, Firebase Auth, Hosting, Functions), Google Cloud Platform (Cloud Functions, Cloud Run, App Engine, BigQuery, Vertex AI), Obsidian, Pinecone |
+<p align="center">
 
-## Estatísticas de Linguagens / Top Languages Stats
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolauriquer&layout=compact&theme=radical)
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
+
+  <img src="https://img.shields.io/badge/DBA-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBA" />
+
+  <img src="https://img.shields.io/badge/QA-FF6B6B?style=for-the-badge&logo=testing-library&logoColor=white" alt="QA" />
+
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+
+</p>
+
+## Estatísticas / Stats
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolauriquer&layout=compact&theme=radical" alt="Top Languages" />
+
+</p>
 
 ## Contatos / Contacts
 
