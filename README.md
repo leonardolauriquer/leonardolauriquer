@@ -1,58 +1,45 @@
-# Leonardo Lauriquer Ribeiro
+<!-- Profile Views Badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=leonardolauriquer&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=leonardolauriquer&color=blue)](https://github.com/leonardolauriquer)
+# Leonardo Lauriquer Ribeiro
 
 ## Sobre / About
 
-Olá! Sou Leonardo Lauriquer Ribeiro, dono e engenheiro responsável pelo site [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br). Apaixonado por ciência, análise de dados e desenvolvimento de software, busco criar soluções inovadoras e eficientes.
-
-Hi! I'm Leonardo Lauriquer Ribeiro, owner and lead engineer of the website [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br). Passionate about science, data analysis, and software development, I strive to create innovative and efficient solutions.
+Olá! Sou Leonardo Lauriquer Ribeiro, dono e engenheiro do [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br), onde desenvolvo ideias inovadoras e soluções tecnológicas. / Hi! I'm Leonardo Lauriquer Ribeiro, owner and engineer at [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br), where I develop innovative ideas and technological solutions.
 
 ## Habilidades / Skills
 
-- JavaScript
-- HTML
-- CSS
-- VBA
-- DBA
-- QA
-- Excel
-- Android Studio
-- Adobe XD
-- Power BI
+- Desenvolvimento Web e Mobile / Web and Mobile Development
+- Inteligência Artificial e Machine Learning / Artificial Intelligence and Machine Learning
+- DevOps e Cloud Computing / DevOps and Cloud Computing
+- Engenharia de Software / Software Engineering
+- Design de Interfaces / UI/UX Design
 
 ## Linguagens e Ferramentas / Languages and Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
-  <img src="https://img.shields.io/badge/DBA-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBA" />
-  <img src="https://img.shields.io/badge/QA-FF6B6B?style=for-the-badge&logo=testing-library&logoColor=white" alt="QA" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-</p>
+| Linguagens / Languages | Frameworks e Bibliotecas / Frameworks and Libraries | Ferramentas e Plataformas / Tools and Platforms |
+|------------------------|---------------------------------------------------|------------------------------------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) | ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white) |
 
 ## Estatísticas / Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolauriquer&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolauriquer&layout=compact&theme=radical)
 
 ## Contatos / Contacts
 
-- **WhatsApp:** [Link](https://wa.me/1234567890)  
-- **Portfólio:** [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br)  
-- **LinkedIn:** [Leonardo Lauriquer Ribeiro](https://linkedin.com/in/leonardolauriquer)
+- Email: [leonardo@desenvolvendoideias.com.br](mailto:leonardo@desenvolvendoideias.com.br)
+- Site: [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br)
 
-## Redes Sociais / Social Media
+## Redes Sociais / Socials
 
-<p align="center">
-  <a href="https://linkedin.com/in/leonardolauriquer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/leonardolauriquer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/leonardolauriquer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.gg/leonardolauriquer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardolauriquer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardolauriquer)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leonardolauriquer)
