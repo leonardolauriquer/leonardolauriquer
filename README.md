@@ -1,99 +1,31 @@
-# Leonardo Lauriquer Ribeiro / Leonardo Lauriquer Ribeiro
+# 👋 Olá, eu sou [Seu Nome] / Hi, I'm [Your Name]
 
-<div align="center">
+### 💡 Apaixonado por Ciência, Análise e Desenvolvimento de Software / Passionate about Science, Analysis, and Software Development
 
-[![Profile Views](https://komarev.com/ghpvc/?username=leonardolauriquer)](https://github.com/leonardolauriquer)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /></p>
 
-</div>
+- 🔭 I’m currently working on **desenvolvendoideias.com.br**
+- 🌱 I’m currently learning **TensorFlow, PyTorch, LangChain**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with **Machine Learning Projects**
+- 💬 Ask me about **JS, HTML, CSS, VBA, DBA, QA, Excel, Android, Adobe XD, Power BI**
+- 📫 How to reach me: **whatsapp link exact**
+- 📄 Know about my experiences [Portfolio](https://vercel.app)
+- ⚡ Fun fact: **I love coding!**
 
-## Sobre / About
-
-Olá! Sou Leonardo Lauriquer Ribeiro, engenheiro e dono da [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br). Apaixonado por tecnologia, desenvolvimento e inovação. Explore meu [portfólio](https://leonardolauriquer.vercel.app) para ver meus projetos.
-
-Hi! I'm Leonardo Lauriquer Ribeiro, engineer and owner of [desenvolvendoideias.com.br](https://desenvolvendoideias.com.br). Passionate about technology, development, and innovation. Check out my [portfolio](https://leonardolauriquer.vercel.app) to see my projects.
-
-## Habilidades / Skills
-
-- JavaScript
-- HTML
-- CSS
-- VBA
-- DBA
-- QA
-- Excel
-- Android Studio
-- Adobe XD
-- Power BI
-
-## Linguagens e Ferramentas / Languages and Tools
-
-| Ferramenta / Tool | Ícone / Icon |
-|-------------------|--------------|
-| Android | ![Android](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg) |
-| Arduino | ![Arduino](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg) |
-| C | ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) |
-| CSS3 | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
-| Express | ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) |
-| Git | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
-| HTML5 | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |
-| JavaScript | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |
-| Linux | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) |
-| MongoDB | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |
-| MSSQL | ![MSSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) |
-| MySQL | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) |
-| Node.js | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) |
-| Oracle | ![Oracle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg) |
-| Photoshop | ![Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg) |
-| Python | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
-| React | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
-| React Native | ![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
-| TypeScript | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) |
-| Unity | ![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg) |
-| Unreal Engine | ![Unreal Engine](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg) |
-| Adobe XD | ![Adobe XD](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg) |
-| TensorFlow | ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) |
-| PyTorch | ![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg) |
-| LangChain | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
-| Hugging Face | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
-| Streamlit | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
-| Jupyter | ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg) |
-| Ollama | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) |
-| OpenAI API | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
-| RAG | ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=react&logoColor=white) |
-| LlamaIndex | ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge&logo=llamaindex&logoColor=white) |
-| LangGraph | ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white) |
-| Firebase | ![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg) |
-| GCP | ![GCP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg) |
-| Obsidian | ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white) |
-| Docker | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) |
-| Kubernetes | ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg) |
-| AWS | ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) |
-| Next.js | ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) |
-| Tailwind CSS | ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) |
-| PostgreSQL | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) |
-| Redis | ![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg) |
-| Vercel | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-| GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-| Figma | ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) |
-| Pinecone | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white) |
-
-## Estatísticas / Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolauriquer&layout=compact&theme=radical)
-
-## Contatos / Contacts
-
-- **WhatsApp**: [Enviar mensagem](https://api.whatsapp.com/send/?phone=5551982890205)
-- **LinkedIn**: [Perfil](https://www.linkedin.com/in/leonardo-lauriquer-ribeiro-24916a92/)
-- **Facebook**: [Perfil](https://www.facebook.com/leonardo.lauriquerribeiro.7)
-- **Instagram**: [Perfil](https://instagram.com/leonardo.lauriquer)
-- **Discord**: [Servidor](https://discord.gg/leolr#6671)
-
-## Redes Sociais / Social Media
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-lauriquer-ribeiro-24916a92/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/leonardo.lauriquerribeiro.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://instagram.com/leonardo.lauriquer" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://discord.gg/leolr#6671" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+### 📫 Contatos / Contacts
+<p align="left">
+  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="yourlinkedin" height="30" width="40" /></a>
+  <a href="https://fb.com/yourfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yourfb" height="30" width="40" /></a>
+  <a href="https://instagram.com/yourig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourig" height="30" width="40" /></a>
+  <a href="https://discord.gg/yourdiscord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yourdiscord" height="30" width="40" /></a>
 </p>
+
+### 🛠️ Linguagens e Ferramentas / Languages and Tools
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a> <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a> <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/> </a> <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://ollama.ai" target="_blank" rel="noreferrer"> <img src="https://ollama.ai/public/ollama.png" alt="ollama" width="40" height="40"/> </a> <a href="https://openai.com" target="_blank" rel="noreferrer"> <img src="https://cdn.openai.com/chatgpt/images/chatgpt-logo.png" alt="openai" width="40" height="40"/> </a> <a href="https://www.llamaindex.ai" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/82698856?s=200&v=4" alt="llamaindex" width="40" height="40"/> </a> <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langgraph" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com/firestore" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud_firestore/google_cloud_firestore-icon.svg" alt="firestore" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://cloud.google.com/functions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud_functions/google_cloud_functions-icon.svg" alt="cloudfunctions" width="40" height="40"/> </a> <a href="https://cloud.google.com/run" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-icon.svg" alt="cloudrun" width="40" height="40"/> </a> <a href="https://cloud.google.com/appengine" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_appengine/google_appengine-icon.svg" alt="appengine" width="40" height="40"/> </a> <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/> </a> <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_vertex_ai/google_vertex_ai-icon.svg" alt="vertexai" width="40" height="40"/> </a> <a href="https://obsidian.md" target="_blank" rel="noreferrer"> <img src="https://obsidian.md/images/obsidian-logo-gradient.svg" alt="obsidian" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="k8s" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> </a> <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="githubactions" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.pinecone.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/54334640?s=200&v=4" alt="pinecone" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="yourusername" /></p>
