@@ -127,12 +127,7 @@ Brazilian Software Engineer passionate about building impactful solutions with d
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardolauriquer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolauriquer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</p>
+## 📊 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardolauriquer&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -160,8 +155,4 @@ Brazilian Software Engineer passionate about building impactful solutions with d
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leonardolauriquer/leonardolauriquer/output/snake.svg" alt="Snake animation" />
-</p>
