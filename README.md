@@ -127,14 +127,6 @@ Brazilian Software Engineer passionate about building impactful solutions with d
 
 ---
 
-## 📊 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardolauriquer&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
