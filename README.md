@@ -6,24 +6,34 @@
 
 <p align="center">
   <strong>AI Engineer · Full-Stack Developer · Data Systems Architect</strong><br>
-  <em>Construindo sistemas inteligentes que resolvem problemas reais em escala.</em>
+  <em>Construindo sistemas inteligentes que resolvem problemas reais em escala.</em><br>
+  <em>Building intelligent systems that solve real-world problems at scale.</em><br>
+  <em>Construyendo sistemas inteligentes que resuelven problemas reales a escala.</em>
 </p>
 
 ---
 
-## 👋 Sobre mim / About me
+## 👋 Sobre mim / About me / Sobre mí
+
+**🇵🇹 Português (nativo)**
 
 Engenheiro de IA que constrói sistemas inteligentes de nível production — desde pipelines RAG e agentes autônomos até aplicações full-stack powered by LLMs. Especializado em transformar dados complexos em inteligência acionável e deployar soluções de IA que funcionam no mundo real.
 
+**🇺🇸 English (intermediate)**
+
 AI Engineer building production-grade intelligent systems — from RAG pipelines and autonomous agents to full-stack applications powered by LLMs. Specialized in turning complex data into actionable intelligence and deploying AI solutions that actually work.
 
-**O que eu trago / What I bring:**
+**🇪🇸 Español (avanzado)**
+
+Ingeniero de IA que construye sistemas inteligentes de nivel production — desde pipelines RAG y agentes autónomos hasta aplicaciones full-stack impulsadas por LLMs. Especializado en transformar datos complejos en inteligencia accionable y desplegar soluciones de IA que funcionan en el mundo real.
+
+**O que eu trago / What I bring / Lo que ofrezco:**
 - 🧠 **Arquitetura de Sistemas IA** — Design e deploy de pipelines RAG, agentes IA e apps com LLM
 - 📊 **Engenharia de Dados** — Pipelines de dados, processos ETL e plataformas de analytics
 - 🚀 **Deploy em Produção** — Ship para AWS, GCP, Vercel com CI/CD e monitoramento
 - 🔧 **Full-Stack Development** — Desenvolvimento de produto completo, do banco ao frontend
 
-📍 Santa Catarina, Brasil · 🌍 Bilíngue (PT/EN)
+📍 Santa Catarina, Brasil · 🌍 Trilíngue (PT/EN/ES)
 
 ---
 
@@ -64,7 +74,7 @@ AI Engineer building production-grade intelligent systems — from RAG pipelines
 
 ---
 
-## 📌 Projetos em Destaque / Featured Projects
+## 📌 Projetos em Destaque / Featured Projects / Proyectos Destacados
 
 <table>
   <tr>
@@ -118,7 +128,7 @@ AI Engineer building production-grade intelligent systems — from RAG pipelines
 
 ---
 
-## 💡 O que eu domínio / Core Expertise
+## 💡 Expertise / Core Skills
 
 <table>
   <tr>
@@ -143,7 +153,7 @@ AI Engineer building production-grade intelligent systems — from RAG pipelines
 
 ---
 
-## 🌐 Conecte-se comigo / Connect with Me
+## 🌐 Conecte-se / Connect / Conectar
 
 <p align="center">
   <a href="https://linkedin.com/in/leonardo-lauriquer-ribeiro-24916a92/" target="_blank">
